@@ -1,6 +1,6 @@
 Integritetspolicy för Almanacka
 
-Senast uppdaterad: 2026-03-24
+Senast uppdaterad: 2026-04-02
 
 Denna integritetspolicy beskriver hur netflimparr hanterar information i appen Almanacka.
 
@@ -12,6 +12,7 @@ All data som användaren skapar i appen, såsom:
 
 dagsnoteringar
 födelsedagar
+importerade iCalender filer
 andra personliga anteckningar
 
 lagras endast lokalt på användarens enhet.
@@ -58,3 +59,9 @@ Denna integritetspolicy kan uppdateras vid behov. Eventuella ändringar publicer
 Om du har frågor om denna integritetspolicy kan du kontakta:
 
 E-post: netflimparr@gmail.com
+
+
+
+
+..........
+
